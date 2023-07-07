@@ -1,2 +1,1 @@
-# parallel_coordinates_exp
-Playing w/ Parallel Coordinates 
+# Paralel Coordinate Plots for Univercity Rankig
